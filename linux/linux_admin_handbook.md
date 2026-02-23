@@ -30,7 +30,7 @@
 18. [Security, Firewall & OS Hardening](#18-security-firewall--os-hardening)
 19. [Containerization & Configuration Management — Docker, Ansible](#19-containerization--configuration-management--docker-ansible)
 20. [Monitoring & High Availability — Nagios, Cockpit, HA Clusters](#20-monitoring--high-availability--nagios-cockpit-ha-clusters)
-21. [X vs Y — Head-to-Head Comparisons](#21-x-vs-y--head-to-head-comparisons) *(incl. Server OS Distro Showdown)*
+21. [X vs Y — Head-to-Head Comparisons](#21-x-vs-y--head-to-head-comparisons)
 22. [Viva / Trainee Review — Q&A Bank](#22-viva--trainee-review--qa-bank)
 23. [DevOps/Cloud Mapping Table + Quick Revision Card](#23-devopscloud-mapping-table--quick-revision-card)
 
