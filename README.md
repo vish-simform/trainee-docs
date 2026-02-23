@@ -19,6 +19,7 @@
 | Cheatsheet | Category |
 |------------|----------|
 | [Windows Server 2022](windows/windows_server_2022_cheatsheet.md) | Windows |
+| [Linux Admin Handbook](linux/linux_admin_handbook.md) | Linux |
 
 ---
 
@@ -30,7 +31,8 @@
 │   ├── README.md          ← Windows category index
 │   └── windows_server_2022_cheatsheet.md
 └── linux/
-    └── README.md          ← Linux category index (coming soon)
+    ├── README.md          ← Linux category index (coming soon)
+    └── linux_admin_handbook.md ← Comprehensive Linux Admin Handbook
 ```
 
 ---

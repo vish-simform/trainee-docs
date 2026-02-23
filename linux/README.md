@@ -2,7 +2,7 @@
 
 > Cheatsheets covering Linux administration, shell scripting, networking, and more.
 
-_Coming soon._
+- [📘 Linux Administration Handbook — Comprehensive DevOps/Cloud Guide](linux_admin_handbook.md)
 
 ---
 
