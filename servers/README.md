@@ -9,11 +9,4 @@
 | [IIS](iis.md) | Windows | Microsoft's web server for ASP.NET, ARR, and Windows-native workloads |
 
 ---
-
-## 📋 Progress
-
-See [PROGRESS.md](PROGRESS.md) for current authoring status.
-
----
-
 [🏠 Back to Home](../README.md)
