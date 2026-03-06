@@ -12,6 +12,7 @@
 | [🪟 Windows](windows/) | Windows Server, Active Directory, GPO, DNS, DHCP, PowerShell |
 | [🐧 Linux](linux/) | _Coming soon_ — Fundamentals, shell scripting, systemd, networking |
 | [🌐 Servers](servers/) | Nginx, Apache, IIS — reverse proxy, SSL, static hosting, production Q&A |
+| [🧪 Labs](labs/) | Hands-on disaster recovery, troubleshooting, and infrastructure experiments |
 
 ---
 
@@ -24,6 +25,8 @@
 | [Nginx](servers/nginx.md) | Servers |
 | [Apache HTTP Server](servers/apache.md) | Servers |
 | [IIS (Internet Information Services)](servers/iis.md) | Servers |
+| [Linux DR — Rebuilding After `/etc` Deletion](labs/linux_etc_disaster_recovery.md) | Labs |
+| [Nginx Config Recovery — PhotoRec File Carving](labs/nginx_config_recovery_photorec.md) | Labs |
 
 ---
 
@@ -37,6 +40,10 @@
 ├── linux/
 │   ├── README.md          ← Linux category index (coming soon)
 │   └── linux_admin_handbook.md
+├── labs/
+│   ├── README.md          ← Labs category index
+│   ├── linux_etc_disaster_recovery.md  ← /etc deletion DR lab
+│   └── nginx_config_recovery_photorec.md  ← Nginx forensic recovery lab
 └── servers/
     ├── README.md          ← Servers category index
     ├── PROGRESS.md        ← Batch writing progress tracker
